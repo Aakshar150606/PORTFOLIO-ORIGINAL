@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">Slate Pencil</title>
+  <desc id="desc">A playful learning platform visual with a slate board and pencil.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#172554"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="board" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#334155"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="640" fill="url(#bg)"/>
+  <circle cx="1040" cy="110" r="150" fill="#facc15" opacity=".16"/>
+  <circle cx="160" cy="540" r="190" fill="#fb7185" opacity=".14"/>
+  <rect x="170" y="120" width="860" height="430" rx="28" fill="url(#board)" stroke="#e2e8f0" stroke-opacity=".32" stroke-width="5"/>
+  <path d="M260 235h470M260 315h350M260 395h430" stroke="#cbd5e1" stroke-opacity=".72" stroke-width="18" stroke-linecap="round"/>
+  <path d="M820 205l128 128-166 166-128-128z" fill="#fbbf24" stroke="#fff7ed" stroke-width="8"/>
+  <path d="M782 499l-52 28 28-52z" fill="#fde68a" stroke="#fff7ed" stroke-width="8"/>
+  <path d="M820 205l34-34 128 128-34 34z" fill="#fb7185" stroke="#fff7ed" stroke-width="8"/>
+  <text x="260" y="485" fill="#f8fafc" font-family="sans-serif" font-size="48" font-weight="700">SLATE PENCIL</text>
+  <text x="260" y="525" fill="#bae6fd" font-family="monospace" font-size="24" letter-spacing="2">LEARNING THROUGH PLAY</text>
+</svg>
